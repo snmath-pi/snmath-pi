@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snmath-pi&show_icons=true&locale=en" alt="snmath-pi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snmath-pi&" alt="snmath-pi" /></p>
