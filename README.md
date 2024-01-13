@@ -1,16 +1,14 @@
 <h1 align="center">Hello! I am Saksham Negi</h1>
-<h3 align="center">Passionate about programming, Data-Structures, Mathematics, Algorithms and Development.</h3>
+<h3 align="center">Passionate about Programming, Data-Structures, Mathematics, Algorithms and Development.</h3>
 <!-- <img align = "right" alt = "Coding" width = "400" src = "https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif"> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snmath-pi" alt="snmath-pi" /></a> </p>
 
-- Technologies **CSS, HTML, Bootstrap**
+- Technologies **CSS, HTML, Bootstrap, JavaScript**
 
 - Know me more [https://snmath-pi.github.io/](https://snmath-pi.github.io/)
 
 - I regularly write articles on [https://medium.com/@SNX03](https://medium.com/@SNX03)
-
-- Tools **react**
 
 - 📫 How to reach me **saksham.negi.ug21@nsut.ac.in**
 
