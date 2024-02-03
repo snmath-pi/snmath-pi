@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **saksham.negi.ug21@nsut.ac.in**
 
-- Resume [https://drive.google.com/file/d/1bCwPXBZoltbNR_urKEwhKke1rAmE_WN-/view?usp=sharing](https://drive.google.com/file/d/1bCwPXBZoltbNR_urKEwhKke1rAmE_WN-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
