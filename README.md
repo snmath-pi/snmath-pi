@@ -6,7 +6,7 @@
 
 - Technologies **CSS, HTML, Bootstrap, JavaScript**
 
-- Know me more [https://snmath-pi.github.io/](https://snmath-pi.github.io/)
+- Know me more (https://portfoliox101.netlify.app/)
 
 - I regularly write articles on [https://medium.com/@SNX03](https://medium.com/@SNX03)
 
