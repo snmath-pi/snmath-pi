@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **VueJs, NextJs, Neural Networks, Tensorflow,**
 
-- 👯 I’m looking to collaborate on [Codeforces Mega API](https://github.com/snmath-pi/CodeforcesMegaAPI)
+- 👯 I’m looking to collaborate on [Codeforces Mega API](https://github.com/snmath-pi/Codeforces-Mega-API)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
