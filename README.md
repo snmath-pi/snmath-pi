@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saksham Negi</h1>
-<h3 align="center">A passionate FullStack developer and an avid Competitive Programmer</h3>
+<h3 align="center">A passionate FullStack developer, Deep Learning and Competitive Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snmath-pi&label=Profile%20views&color=0e75b6&style=flat" alt="snmath-pi" /> </p>
 
